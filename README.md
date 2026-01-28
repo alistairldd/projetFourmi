@@ -1,4 +1,4 @@
-Ant project carried out as part of the course Modular Programming programme.  
+Ant project carried out as part of the course Modular Programming.  
 We simulate colonies of ants fighting each other and observe the result by creating a GIF. 
 To try it by yourself, you should do : 
 
